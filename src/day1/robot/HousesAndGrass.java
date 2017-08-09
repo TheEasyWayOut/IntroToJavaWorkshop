@@ -14,6 +14,14 @@ public class HousesAndGrass {
 	cow.turn(90);
 	cow.move(50);
 	cow.turn(-90);
+	cow.setPenColor(Color.GRAY);
+	cow.move(200);
+	cow.turn(90);
+	cow.move(100);
+	cow.turn(90);
+	cow.move(200);
+	cow.penUp();
+	cow.move(-100);
 	
 	
 	
